@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\bin\Debug\MediaPlayerKullanımı.exe.config
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\bin\Debug\MediaPlayerKullanımı.exe
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\bin\Debug\MediaPlayerKullanımı.pdb
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.Form1.resources
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.exe
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.pdb
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.csproj.ResolveComReference.cache
+C:\Users\Dell\source\repos\C# ders 4\MediaPlayerKullanımı\MediaPlayerKullanımı\obj\Debug\MediaPlayerKullanımı.csprojAssemblyReference.cache
